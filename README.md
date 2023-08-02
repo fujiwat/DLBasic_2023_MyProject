@@ -1,7 +1,7 @@
 DL基礎講座2023 最終課題
 # 誰でも良い結果が得られる、学習率 探索プログラム
 ### Author:  tfujiwara 藤原隆弘
-このプログラムは、学習率を探索し、良い値を見つけることができます。（言語：Python）
+このプログラムは、学習率を「探索」して、良い値を見つけることができます。（言語：Python）
 ![image](https://github.com/fujiwat/DLBasic_2023_MyProject/assets/16160120/e4f591ec-40f4-4e25-8aec-950826c3a506)
 
 
