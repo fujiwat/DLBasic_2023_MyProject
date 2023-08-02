@@ -52,4 +52,4 @@ Phase2: 活用フェーズ。Phase1で得られた学習率 0.00041 を使って
 
 ## 参考
 https://deeplearning.jp/lectures/deep-learning-foundation/ <br>
-https://weblab.t.u-tokyo.ac.jp/deeplearning%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7%E3%81%AE%E6%BC%94%E7%BF%92%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E7%84%A1%E5%84%9F%E5%85%AC%E9%96%8B/
+https://weblab.t.u-tokyo.ac.jp/deeplearning基礎講座の演習コンテンツの無償公開/
