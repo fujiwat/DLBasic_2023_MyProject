@@ -14,6 +14,7 @@ Google Colaboratory
 
 ## 紹介ビデオ
 最終課題説明動画1080p.mp4
+https://github.com/fujiwat/DLBasic_2023_MyProject/blob/main/%E6%9C%80%E7%B5%82%E8%AA%B2%E9%A1%8C%E8%AA%AC%E6%98%8E%E5%8B%95%E7%94%BB1080p.gif
 
 ## 技術解説（提出文書）
 tfujiwara20230801a.pdf
