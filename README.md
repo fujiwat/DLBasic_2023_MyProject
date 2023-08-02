@@ -19,7 +19,7 @@ Google Colaboratory
 tfujiwara20230801a.pdf
 
 ## ソースコードと実行結果
-- FinalProj/notebooks には、Google Colab用の notebookファイルがあります。Colabのファイルは、実行結果も残っています。
+- FinalProj/notebooks には、Google Colab用の notebookファイルがあります。Colabの各.ipynbファイルには、実行結果も残っています。
 - FinalProj_py/src には、Pythonのソースコードファイルがあります。（Google Colabから生成したもの）<br>
 各ソースコードファイルの役割は以下の通り。
 
