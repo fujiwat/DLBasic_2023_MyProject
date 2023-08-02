@@ -13,7 +13,7 @@ Google Colaboratory
 ## 紹介ビデオ
 最終課題説明動画1080p.mp4
 
-## 技術論文
+## 技術解説（提出文書）
 tfujiwara20230801a.pdf
 
 ## ソースコードと実行結果
