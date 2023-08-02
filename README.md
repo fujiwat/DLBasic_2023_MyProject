@@ -14,6 +14,7 @@ Google Colaboratory
 
 ## 紹介ビデオ
 最終課題説明動画1080p.mp4
+https://1drv.ms/v/s!Aug06OAnUnHpqN4CI2uc2n9wGDeF6A?e=csTbcx
 ![Image](https://1drv.ms/v/s!Aug06OAnUnHpqN4CI2uc2n9wGDeF6A?e=csTbcx)
 
 ## 技術解説（提出文書）
