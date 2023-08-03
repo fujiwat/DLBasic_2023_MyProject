@@ -25,14 +25,14 @@ tfujiwara20230801a.pdf
 
 ### LR-Explorer Phase1.ipynb            lr_explorer_phase1.py
 - 学習率探索プログラム。50エポック繰り返しながら、良い値の付近を桁を増やしながら探索します。
-- Phase1: 探索フェースの実行結果が入っています。
+- Phase1: 探索フェース（実行結果入り）。良い学習率を探します。
 ※時間がかかります。
 
 ### LR-Explorer Phase2 LR0.00038.ipynb  lr_explorer_phase2_lr0_00038.py
-- Phase2: 活用フェーズ。Phase1で得られた学習率 0.00038 を使って400エポック実行した結果が入っています。
+- Phase2: 活用フェーズ（実行結果入り）。Phase1で得られた学習率 0.00038 を使って400エポック実行した結果が入っています。
 
 ### LR-Explorer Phase2 LR0.00041.ipynb  lr_explorer_phase2_lr0_00041.py
-- Phase2: 活用フェーズ。Phase1で得られた学習率 0.00041 を使って400エポック実行した結果が入っています。
+- Phase2: 活用フェーズ（実行結果入り）。Phase1で得られた学習率 0.00041 を使って400エポック実行した結果が入っています。
 
 ### Cosine Annealing 50.ipynb           cosine_annealing_50.py
 - 結果の比較用に用意した、コサインアニーリングによる学習率と検証結果を得るプログラム。<br>
