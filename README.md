@@ -20,7 +20,7 @@ tfujiwara20230801a.pdf
 
 ## ソースコードと実行結果
 - FinalProj/notebooks には、Google Colab用の notebookファイルがあります。Colabの各.ipynbファイルには、実行結果も残っています。
-- FinalProj_py/src には、Pythonのソースコードファイルがあります。（Google Colabから生成したもの）<br>
+- FinalProj_py/src には、Pythonのソースコードファイルがあります。（Google Colabから生成したもの）<br />
 各ソースコードファイルの役割は以下の通り。
 
 ### LR-Explorer Phase1.ipynb            lr_explorer_phase1.py
@@ -35,23 +35,23 @@ tfujiwara20230801a.pdf
 - Phase2: 活用フェーズ（実行結果入り）。Phase1で得られた学習率 0.00041 を使って400エポック実行した結果が入っています。
 
 ### Cosine Annealing 50.ipynb           cosine_annealing_50.py
-- 結果の比較用に用意した、コサインアニーリングによる学習率と検証結果を得るプログラム。<br>
+- 結果の比較用に用意した、コサインアニーリングによる学習率と検証結果を得るプログラム。<br />
 （実行結果入り）コサイン分割50回。
 
 ### Cosine Annealing 100.ipynb          cosine_annealing_100.py
-- 結果の比較用に用意した、コサインアニーリングによる学習率と検証結果を得るプログラム。<br>
+- 結果の比較用に用意した、コサインアニーリングによる学習率と検証結果を得るプログラム。<br />
 （実行結果入り）コサイン分割100回。
 
 ### Cosine Annealing 200.ipynb          cosine_annealing_200.py
-- 結果の比較用に用意した、コサインアニーリングによる学習率と検証結果を得るプログラム。<br>
+- 結果の比較用に用意した、コサインアニーリングによる学習率と検証結果を得るプログラム。<br />
 （実行結果入り）コサイン分割200回。
 
 ### Cosine Annealing 400.ipynb          cosine_annealing_400.py
-- 結果の比較用に用意した、コサインアニーリングによる学習率と検証結果を得るプログラム。<br>
+- 結果の比較用に用意した、コサインアニーリングによる学習率と検証結果を得るプログラム。<br />
 （実行結果入り）コサイン分割400回。
 
 ### HandSearch LR0.0003.ipynb                      handsearch_lr0_0003.py
-- 結果の比較用に用意した、手探り（通常の固定学習率でエポックを繰り返す）プログラム。<br>
+- 結果の比較用に用意した、手探り（通常の固定学習率でエポックを繰り返す）プログラム。<br />
 （実行結果入り）学習率0.0003
 
 ## 備考
