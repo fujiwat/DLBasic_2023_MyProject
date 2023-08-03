@@ -13,7 +13,7 @@ DL基礎講座2023の第11回「変分オートエンコーダ（VAE）を用い
 Google Colaboratory
 
 ## 紹介ビデオ
-[最終課題説明動画1080p.mp4](https://1drv.ms/v/s!Aug06OAnUnHpqN4CI2uc2n9wGDeF6A?e=csTbcx)
+[最終課題説明動画1080p.mp4](https://drive.google.com/file/d/196fsfThlgFLiHG0m30OblPU7iaOj9BRT/view?usp=drive_link)
 
 ## 技術解説（提出文書）
 tfujiwara20230801a.pdf
